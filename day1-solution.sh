@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 #task1
@@ -31,3 +30,6 @@ echo "hostname $HOSTNAME"
 echo "Files with .txt files in directory"
 
 ls *.txt
+
+echo "day1 tasks completed"
+
